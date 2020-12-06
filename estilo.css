@@ -1,0 +1,32 @@
+.contenedorprincipal{
+    position: absolute;
+    height: 400px;
+    width: 600px;
+    background: #00cc66;
+    text-align: center ;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%,-50%);
+
+    
+}
+.cardbody{
+    background: white;
+    height: 90%;
+    padding: 20px;
+
+}
+body{
+    background-image: url(https://wallpapers.org.es/wp-content/uploads/2012/11/fondo-degradado-1024x640.jpg);
+   background-size: cover;
+  
+}
+.estilodetexto{
+    margin-top: 30px;
+}
+.estilodetexto2{
+    margin-top: 30px;
+}
+.estiloboton{
+    margin-top: 30px;
+}
